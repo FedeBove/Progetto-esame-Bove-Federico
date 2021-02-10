@@ -1,0 +1,7 @@
+{
+  "name": "ProgettoEsame_Bove",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
